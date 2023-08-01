@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\bin\Debug\net6.0\Break And Continue.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\bin\Debug\net6.0\Break And Continue.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\bin\Debug\net6.0\Break And Continue.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\bin\Debug\net6.0\Break And Continue.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\bin\Debug\net6.0\Break And Continue.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\refint\Break And Continue.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\Break And Continue.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\Break And Continue\obj\Debug\net6.0\ref\Break And Continue.dll

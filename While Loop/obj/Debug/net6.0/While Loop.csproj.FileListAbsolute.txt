@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\bin\Debug\net6.0\While Loop.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\bin\Debug\net6.0\While Loop.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\bin\Debug\net6.0\While Loop.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\bin\Debug\net6.0\While Loop.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\bin\Debug\net6.0\While Loop.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\refint\While Loop.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\While Loop.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_08_01\While Loop\obj\Debug\net6.0\ref\While Loop.dll
